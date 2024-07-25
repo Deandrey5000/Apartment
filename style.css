@@ -1,1 +1,5 @@
-background: url("img.jpg") no-repeat;
+<style>
+body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", Arial, Helvetica, sans-serif;
+                       background: url("IMG_2804.jpg") no repeat;}
+.mySlides {display: none}
+</style>
